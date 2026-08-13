@@ -1,0 +1,29 @@
+name: CI - QA Mentoria SauceDemo
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  setup:
+    name: Setup do ambiente
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar dependências
+        run: npm install
+
+      - name: Confirmar ambiente pronto
+        run: echo "Ambiente configurado com sucesso. Pronto para receber testes."

@@ -1,0 +1,20 @@
+{
+  "name": "qa-mentoria-saucedemo",
+  "version": "1.0.0",
+  "description": "Repositório de estudos e projetos práticos de QA, cobrindo:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naluisa/qa-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naluisa/qa-portfolio/issues"
+  },
+  "homepage": "https://github.com/Naluisa/qa-portfolio#readme"
+}

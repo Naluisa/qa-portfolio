@@ -1,12 +1,12 @@
-# QA Mentoria — SauceDemo (versão A)
+# 🧪 QA Portfólio — Do Básico ao Sênior - SauceDemo
 Repositório de estudos e projetos práticos de QA, cobrindo:
 
 ## 📚 Estrutura
 
 | Capítulo | Tema | Status |
 |----------|------|--------|
-| 01 | Testes manuais e documentação de BA | 🔜 |
-| 02 | CI/CD com GitHub Actions | 🔜 |
+| 01 | Testes manuais e documentação de BA | ✅ |
+| 02 | CI/CD com GitHub Actions | ✅ |
 | 03 | Automação E2E com Cypress (POM + Cucumber/BDD) | 🔜 |
 | 04 | Testes unitários com Jest (TDD) | 🔜 |
 | 05 | Testes de API com Postman + Newman | 🔜 |
