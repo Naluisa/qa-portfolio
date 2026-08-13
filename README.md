@@ -1,6 +1,4 @@
-# 🧪 QA Portfólio — Do Básico ao Sênior - SauceDemo
-Repositório de estudos e projetos práticos de QA, cobrindo:
-
+# QA Mentoria — SauceDemo (versão B)
 ## 📚 Estrutura
 
 | Capítulo | Tema | Status |
