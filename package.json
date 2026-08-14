@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Naluisa/qa-portfolio/issues"
   },
-  "homepage": "https://github.com/Naluisa/qa-portfolio#readme"
+  "homepage": "https://github.com/Naluisa/qa-portfolio#readme",
+  "devDependencies": {
+    "cypress": "^15.20.1"
+  }
 }
